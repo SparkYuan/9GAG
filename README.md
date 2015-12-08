@@ -1,6 +1,10 @@
 9GAG-Android (unofficial)
 =====================
 
+![效果](http://img.blog.csdn.net/20151125171508498)
+[官方项目源码](http://blog.csdn.net/l664675249/article/details/50039641)
+关于本项目的讲解请参考这篇博客
+
 ## Open source projects
 
 * [Volley](https://android.googlesource.com/platform/frameworks/volley)
