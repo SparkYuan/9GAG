@@ -2,9 +2,11 @@
 =====================
 
 ![效果](http://img.blog.csdn.net/20151125171508498)
-[开源项目9GAG源码解析与Material改造](http://blog.csdn.net/l664675249/article/details/50039641)
+
+
 
 关于本项目的讲解请参考这篇博客
+[开源项目9GAG源码解析与Material改造](http://blog.csdn.net/l664675249/article/details/50039641)
 
 ## Open source projects
 
