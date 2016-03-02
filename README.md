@@ -1,7 +1,7 @@
 9GAG-Android (unofficial)
 =====================
 
-![效果](http://img.blog.csdn.net/20151125171508498)
+![效果](https://raw.githubusercontent.com/SparkYuan/Material-9GAG/master/sample.gif)
 
 
 
